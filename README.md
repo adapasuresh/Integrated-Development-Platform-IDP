@@ -51,5 +51,8 @@ Engineering Experience <br>
  <h1> ALL-IN-ONE <br> 
       continuous improvements of <u>THE ONE</u> with complete 360 degrees and 100 percent <u>FOCUS</u> </h1>
 
-![idp image 1](images/idp-4.png)
+![idp image 1](images/idp-4.png) <br>
+
+
+![idp image 1](images/idp-6.png)
 
