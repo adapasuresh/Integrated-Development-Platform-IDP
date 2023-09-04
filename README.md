@@ -1,4 +1,4 @@
-# Inside Vs Outside
+# Shift Left Vs Dive Right
 
 ![idp image](images/1BOX-IDP.png) <br>
 
@@ -45,7 +45,7 @@ Engineering Experience <br>
 ![idp image 1](images/idp-3.png)
 
 <hr>
-ALL-IN-ONE, ....Work Inside.... <br>
+ALL-IN-ONE, ....Work Inside.... <u> Dive Right </u> <br>
 
 ![idp image 1](images/idp-4.png)
 
