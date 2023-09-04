@@ -45,7 +45,11 @@ Engineering Experience <br>
 ![idp image 1](images/idp-3.png)
 
 <hr>
-ALL-IN-ONE, ....Work Inside.... <u> Dive Right </u> <br>
+<u> What is Dive Right? </u> <br>
+ ....Work Inside....  <br>
+
+ <h1> ALL-IN-ONE <br> 
+      continuous improvements of <u>THE ONE</u> with complete 360 degrees and 100 percent <u>FOCUS</u> </h1>
 
 ![idp image 1](images/idp-4.png)
 
